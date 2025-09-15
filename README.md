@@ -1,40 +1,21 @@
-# 🏰 CatacombCrawler
+# Hey, this is us 👋  
+## The Labyrinth Crawler
 
 Welcome to **CatacombCrawler** – a collection of dungeon crawler experiments, engines, and UIs.  
-Our goal is to build a flexible dungeon crawling framework that supports multiple frontends (terminal, Pygame, maybe even web).
+Our goal is to build a flexible catacomb-crawling framework that supports multiple frontends (terminal, Pygame, maybe even web).
 
----
+### 🎯 What we’re building
+- A reusable **core** for roguelike mechanics (maps, monsters, loot, combat)
+- Multiple **UIs** that plug into the same core:
+  - Terminal UI → [terminal-catacomb-crawler](https://github.com/CatacombCrawler/terminal-catacomb-crawler)
+  - Pygame UI → _coming soon_
+  - Web UI → _ideas welcome_
 
-## 🎮 Projects
+### 🤝 Contribute
+- Open issues and PRs are welcome from the community (fork → PR).
+- Direct pushes are limited to org members.
+- Check open issues to get started.
 
-- [**Terminal Catacomb Crawler**](https://github.com/CatacombCrawler/terminal-catacomb-crawler)  
-  A text-based dungeon crawler you can play in your terminal.  
+### 📜 License
+MIT
 
-(Coming soon: Pygame UI, other interfaces…)
-
----
-
-## 🧩 Vision
-
-CatacombCrawler is structured to separate **game logic** from **presentation**.  
-That means we can experiment with different UIs while reusing the same core mechanics.  
-
-- Core logic (monsters, loot, combat, maps)  
-- Pluggable UIs (terminal, GUI, web)  
-- Built with Python for easy hacking and experimentation  
-
----
-
-## 🤝 Contributing
-
-We welcome feedback and ideas!  
-- Open an [issue](https://github.com/CatacombCrawler/terminal-catacomb-crawler/issues)  
-- Fork the repo and submit a PR  
-
-(Please note: direct pushes are limited to org members, but anyone can contribute via PRs.)
-
----
-
-## 📜 License
-
-MIT License – free to use, modify, and share.

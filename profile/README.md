@@ -1,5 +1,5 @@
 # Hey, this is us 👋  
-## The Labyrinth Crawler
+## The CatacombCrawler
 
 Welcome to **CatacombCrawler** – a collection of dungeon crawler experiments, engines, and UIs.  
 Our goal is to build a flexible catacomb-crawling framework that supports multiple frontends (terminal, Pygame, maybe even web).
